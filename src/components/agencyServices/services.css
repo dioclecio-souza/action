@@ -37,7 +37,8 @@
 .services-description {
     font-size: 18px;
     font-weight: 400;
-    color: white 70%;
+    color: white;
+    opacity: 70%;
     background: transparent ;
     padding-left: 42px;
 }    

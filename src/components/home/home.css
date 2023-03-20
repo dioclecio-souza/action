@@ -6,6 +6,7 @@
     font-size: 42px;
     font-weight: 800;
     padding-top: 30px;
+    color: white;
 }
 
 span {
@@ -13,7 +14,8 @@ span {
 }
 
 .home-description {
-    color: white 70%;
+    color: white ;
+    opacity: 70%;
     font-weight: 500;
     font-size: 20px;
     line-height: 30px;
