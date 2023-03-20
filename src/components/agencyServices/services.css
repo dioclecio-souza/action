@@ -1,0 +1,21 @@
+.service-box{
+    width: 369px;
+    height: 378px;
+    border: 3px solid #4f1616;
+    border-radius: 47px;
+    background-image: linear-gradient(to top, #4f1616, 4%,  #000);
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+
+.services-tittle {
+    color : #e74040;
+    font-family: "Montserrat";
+    font-weight: 600;
+    font-size: 20px;
+}
+
+
+h1 {
+    color: white;
+}

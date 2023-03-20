@@ -1,0 +1,21 @@
+#logo {
+    padding-top: 178px;
+}
+
+.home-title {
+    font-size: 42px;
+    font-weight: 800;
+    padding-top: 30px;
+}
+
+span {
+    color: #e74040;
+}
+
+.home-description {
+    color: white 70%;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    padding-top: 20px;
+}

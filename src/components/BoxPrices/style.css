@@ -1,0 +1,22 @@
+.box {
+    background-color: red;
+    border-radius: 47px;
+    width: 555px;
+    height: 834px;
+}
+
+h3 {
+    font-weight: 700;
+    font-size: 30px;
+}
+
+p {
+    font-weight: 500;
+
+}
+
+
+.text-box {
+    font-size: 22px;
+    color: white;
+}

@@ -1,17 +1,40 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import './index.css';
-import App from './App';
-import reportWebVitals from './reportWebVitals';
+
+import Home from './components/home/home';
+import Services from './components/agencyServices/services'
+import AgencyMethodology from './components/agencyMethod/methodology';
+import Results from './components/results/results';
+import BoxPrices from './components/BoxPrices/boxPrices';
+import ParaQuem from './components/paraquemE/paraQuem';
+import Oque from './components/empresaPrecisa/oQue';
+import CommonQuestions from './components/CommonQuestions/commonQuestions';
+import WhoIsEntony from './components/WhoIsEntony/whoIsEntony';
+import Time from './components/Time/time';
+import TrabalheConosco from './components/TrabalheConosco/trabalheConosco';
+import Footer from './components/Footer/Footer';
+
+
+
+import 'bootstrap/dist/css/bootstrap.css'
+import './styles/global.css'
+
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App />
+    <Home />
+    <Services />
+    <AgencyMethodology />
+    <Results />
+    <BoxPrices/>
+    <ParaQuem />
+    <Oque />
+    <CommonQuestions />
+    <WhoIsEntony />
+    <Time />
+    <TrabalheConosco />
+    <Footer />
   </React.StrictMode>
 );
 
-// If you want to start measuring performance in your app, pass a function
-// to log results (for example: reportWebVitals(console.log))
-// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
-reportWebVitals();
