@@ -8,38 +8,38 @@ import designer from '../../images/design-grafico.png'
 
 const services = () => {
   return (
-    <div className="container text-center">
-        <h1> Serviços</h1>
+    <div className="container">
+        <h1 id="services"> Serviços</h1>
         <div className="row row-cols-3">
-            <div className="service-box">
-                <img src={trafego} alt="gestor-de-trafego"></img>
+            <div className="service-box col">
+                <img src={trafego} alt="gestor-de-trafego" className="img-services"></img>
                 <p className="services-tittle">GESTAO DE TRÁFEGO</p>
-                <p className="services-description" style={{color: "red"}}>Industry. lorem ipsum has been the industry's standard dummyt text ever since the</p>
+                <p className="services-description">Industry. lorem ipsum has <br></br> been the industry's standard <br></br>dummy text ever since the</p>
             </div>
-            <div className="service-box">
-                <img src={social} alt="social-media"></img>
+            <div className="service-box col">
+                <img src={social} alt="social-media"  className="img-services"></img>
                 <p className="services-tittle">SOCIAL MEDIA</p>
-                <p className="services-description">Industry. lorem ipsum has been the industry's standard dummyt text ever since the</p>
+                <p className="services-description">Industry. lorem ipsum has <br></br> been the industry's standard <br></br>dummy text ever since the</p>
             </div>
-            <div className="service-box">
-                <img src={video} alt="video-maker"></img>
+            <div className="service-box col">
+                <img src={video} alt="video-maker" className="img-services" ></img>
                 <p className="services-tittle">VIDEO MAKER</p>
-                <p className="services-description">Industry. lorem ipsum has been the industry's standard dummyt text ever since the</p>
+                <p className="services-description">Industry. lorem ipsum has <br></br> been the industry's standard <br></br>dummy text ever since the</p>
             </div>
-            <div className="service-box">
-                <img src={copy} alt="copywriter"></img>
+            <div className="service-box col">
+                <img src={copy} alt="copywriter" className="img-services"></img>
                 <p className="services-tittle">COPYWRITER</p>
-                <p className="services-description">Industry. lorem ipsum has been the industry's standard dummyt text ever since the</p>
+                <p className="services-description">Industry. lorem ipsum has <br></br> been the industry's standard <br></br>dummy text ever since the</p>
             </div>
-            <div className="service-box">
-                <img src={designer} alt="designer-grafico"></img>
+            <div className="service-box col">
+                <img src={designer} alt="designer-grafico"className="img-services"></img>
                 <p className="services-tittle">DESIGNER GRÁFICO</p>
-                <p className="services-description">Industry. lorem ipsum has been the industry's standard dummyt text ever since the</p>
+                <p className="services-description">Industry. lorem ipsum has <br></br> been the industry's standard <br></br>dummy text ever since the</p>
             </div>
-            <div className="service-box">
-                <img src={""} alt="designer-web"></img>
+            <div className="service-box col">
+                <img src={""} alt="designer-web" className="img-services"></img>
                 <p className="services-tittle">DESIGNER WEB</p>
-                <p className="services-description">Industry. lorem ipsum has been the industry's standard dummyt text ever since the</p>
+                <p className="services-description">Industry. lorem ipsum has <br></br> been the industry's standard <br></br>dummy text ever since the</p>
             </div>
         </div>
     </div>

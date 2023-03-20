@@ -1,11 +1,28 @@
+#services {
+    color: white;
+    font-size: 42px;
+    font-weight: 800;
+    text-align: center;
+    padding-top: 240px;
+    padding-bottom: 111px;
+}
+
 .service-box{
-    width: 369px;
-    height: 378px;
+    width: 366px;
+    height: 374px;
     border: 3px solid #4f1616;
     border-radius: 47px;
     background-image: linear-gradient(to top, #4f1616, 4%,  #000);
-    margin-bottom: 10px;
-    margin-left: 10px;
+    margin-bottom: 16px;
+    margin-left: 18px;
+}
+
+.img-services {
+    padding-top: 104px;
+    padding-bottom: 23px;
+    padding-left: 43px;
+    padding-right: 266px;
+    background:transparent;
 }
 
 .services-tittle {
@@ -13,9 +30,14 @@
     font-family: "Montserrat";
     font-weight: 600;
     font-size: 20px;
+    background: transparent;
+    padding-left: 42px;
 }
 
-
-h1 {
-    color: white;
-}
+.services-description {
+    font-size: 18px;
+    font-weight: 400;
+    color: white 70%;
+    background: transparent ;
+    padding-left: 42px;
+}    
