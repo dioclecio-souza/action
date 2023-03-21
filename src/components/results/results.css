@@ -1,0 +1,34 @@
+.title-board {
+    color: white;
+    text-align: center;
+    font-weight: 500;
+    padding-top: 107px;
+    padding-bottom: 213px;
+}
+
+
+.title-board span {
+    font-weight: 800;
+}
+
+
+
+.title-10x {
+    color: white;
+    font-size: 28px;
+    font-weight: 800;
+}
+
+.value-invest {
+    padding-top: 633px;
+}
+
+.value-invest h1 {
+    font-weight: 800;
+    color: white;
+    font-size: 28px;
+}
+
+.value-invest span {
+    font-weight: 800;
+}

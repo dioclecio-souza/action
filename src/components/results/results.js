@@ -1,16 +1,19 @@
 import React from 'react'
+import './results.css'
+
+
 
 const results = () => {
   return (
     <>
-    <div>
-        <h1>Centenas de peorfis, pequenos e médios também estao tendo <span>Resultados Incríveis</span></h1>
+    <div className="title-board">
+        <h1>Centenas de perfis, pequenos e médios <br></br>também estao tendo <span>Resultados Incríveis</span></h1>
     </div>
-    <div>
-        estao pipocando resultados inacreditáveis com os stories 10X
+    <div className="title-10x">
+        estao pipocando <br></br> resultados inacreditáveis <br></br> com os stories 10X
     </div>
-    <div>
-        <h1><span>Valor investido</span> no gerenciador do facebook e google</h1>
+    <div className="value-invest">
+        <h1><span>Valor investido</span> <br></br>no gerenciador <br></br>do facebook e <br></br>google</h1>
     </div>
     </>
   )
