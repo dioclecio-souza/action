@@ -5,11 +5,15 @@
     padding-bottom: 128px;
 }
 
+.box-left {
+    background-image: linear-gradient(#8e3535 50%, #0000 );
+    border-radius: 47px;
+    width: 555px;
+    height: 834px;
+}
 
-
-
-.box {
-    background-color: red;
+.box-right {
+    background-image: linear-gradient(#af2c2c 50%, #0000 );
     border-radius: 47px;
     width: 555px;
     height: 834px;
@@ -46,3 +50,30 @@
     color: white;
 }
 
+
+hr {
+    max-width: 400px;
+    display: flex;
+    
+}
+
+.description-prices {
+    background: transparent;
+    text-align: left;
+    margin-left: 128px;
+}
+
+
+.description-prices p, img {
+    background: transparent;
+    font-size: 22px;
+}
+
+.correct {
+    padding-right: 10px;
+}
+
+
+#button {
+    margin-top: 100px;
+}

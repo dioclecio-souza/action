@@ -1,0 +1,41 @@
+.para-quem-title {
+    margin-top: 113px;
+    color: white;
+    font-size: 42px;
+    font-weight: 800;
+}
+
+.title-WhoIs {
+    font-size: 22px;
+    color: white;
+    font-weight: 800;
+    text-align: left;
+    margin-left: 25px;
+    margin-top: 53px;
+    background: transparent;
+}
+
+.description-WhoIs {
+    font-size: 18px;
+    color: white;
+    opacity: 70%;
+    font-weight: 400;
+    text-align: left;
+    margin-left: 25px;
+    margin-top: 44px;
+    background-color: transparent;
+}
+
+#button-WhoIs {
+    border: none;
+    background-color: #e74040;
+    color: white;
+    border-radius: 30px;
+    text-align: center;
+    width: 309px;
+    height: 59px;
+    font-size: 22px;
+    margin-top: 30px;
+    font-weight: 600;
+    box-shadow: 0px 0px 30px 4px #e74040 ;
+}
