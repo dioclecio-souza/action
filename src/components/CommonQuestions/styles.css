@@ -5,3 +5,16 @@
     text-align: center;
     margin-bottom: 90px;
 }
+
+.accordion-header {
+    margin-left: 52px;
+    background: transparent;
+}
+
+.accordion-body {
+    color: white;
+    font-size: 18px;
+    font-weight: 400;
+    opacity: 80%;
+    margin-left: 52px;
+}
