@@ -1,6 +1,6 @@
 import React from 'react'
 import './method.css'
-import image from '../../images/ponto-a-b.png'
+import image from '../../assets/ponto-a-b.png'
 
 const agencyMethodology = () => {
   return (

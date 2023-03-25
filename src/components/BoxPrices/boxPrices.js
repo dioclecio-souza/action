@@ -1,5 +1,5 @@
 import React from 'react'
-import CorrectImg from '../../images/correto.png'
+import CorrectImg from '../../assets/correto.png'
 import './style.css'
 
 const boxPrices = () => {

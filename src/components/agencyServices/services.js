@@ -1,10 +1,10 @@
 import React from 'react'
 import './services.css'
-import trafego from '../../images/lancar.png'
-import social from '../../images/compartilhar.png'
-import video from '../../images/video.png'
-import copy from '../../images/renomear.png'
-import designer from '../../images/design-grafico.png'
+import trafego from '../../assets/lancar.png'
+import social from '../../assets/compartilhar.png'
+import video from '../../assets/video.png'
+import copy from '../../assets/renomear.png'
+import designer from '../../assets/design-grafico.png'
 
 const services = () => {
   return (
