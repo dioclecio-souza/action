@@ -1,3 +1,6 @@
+
+/* Start Style IMG */
+
 .content-info {
     display: flex;
     align-items: center;
@@ -5,17 +8,17 @@
 
 .img-jovem {
     position: absolute;
-    left: 700px;
-    top: 140px;
-    width: 455px;
-    height: 781px;
-    z-index: 21;
+    left: 740px;
+    top: 85px;
+    width: 405px;
+    height: 700px;
+    z-index: 20;
 }
 
 .logo-red {
     position: absolute;
-    right: -60px;
-    top: -80px;
+    left: -50px;
+    top: -145px;
     z-index: 19;
 }
 
@@ -28,67 +31,105 @@
     z-index: 22;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/* #home-logo {
-    padding-bottom: 31px;
+.social {
+    opacity: 0.53;
+    position: absolute;
+    left: 850px;
+    top: -14px;
+    width: 550px;
+    z-index: 8;
 }
 
+.numbers {
+    position: absolute;
+    left: -205px;
+    top: -60px;
+    width: 1300px;
+    z-index: 8;
+}
+
+
+#home-logo {
+    position: absolute;
+    left: 155px;
+    top: 135px;
+    width: 160px;
+    z-index: 14;
+}
+
+
+.light-top {
+    position: absolute;
+    top: -200px;
+    width: 1753px;
+    height: 1380px;
+    z-index: 10;
+}
+
+
+/* End Style Img */
+
+/* Start Style Text */
+
 .home-title {
+    position: absolute;
+    top: 230px;
+    left: 150px;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
     font-size: 42px;
-    font-weight: 800;
-    color: white;
-    padding-bottom: 177px;
-    margin: 0 auto;
-    position: absolute
 }
 
 span {
-    color: #e74040;
+    color: rgb(231, 64, 64);
 }
 
 .home-description {
-    color: white ;
-    opacity: 70%;
-    font-weight: 500;
+    position: absolute;
     font-size: 20px;
-    line-height: 30px;
+    font-weight: medium;
+    left: 150px;
+    top: 410px;
+    color: rgba(255, 255, 255, 0.702);
 }
 
-
-#button-home {
+.button-home {
     border: none;
-    background-color: #e74040;
+    background-color: rgb(231, 64, 64);
     color: white;
+    position: absolute;
     border-radius: 30px;
-    text-align: center;
     width: 262px;
     height: 60px;
     font-size: 22px;
-    margin-top: 30px;
     font-weight: 600;
+    z-index: 17;
+    top: 520px;
+    left: 150px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 
+
+
+
+
+
+
+
+
+
 }  */
