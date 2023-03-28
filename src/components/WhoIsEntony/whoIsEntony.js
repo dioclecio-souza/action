@@ -1,8 +1,10 @@
 import React from 'react'
 
+
+
 const whoIsEntony = () => {
   return (
-    <div>
+    <div className="container-whoIs">
         <h1>Quem é <span>Entony?</span></h1>
         <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusantium expedita autem 
             dolorum possimus quibusdam tempore placeat rem dolorem maiores incidunt 

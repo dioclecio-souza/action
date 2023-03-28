@@ -2,8 +2,9 @@
     color: white;
     text-align: center;
     font-weight: 500;
-    padding-top: 107px;
-    padding-bottom: 213px;
+    position: absolute;
+    left: 403px;
+    top: 2683px;
 }
 
 

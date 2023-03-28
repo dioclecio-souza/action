@@ -1,44 +1,113 @@
-#services {
-    color: white;
+
+.title-services {
     font-size: 42px;
     font-weight: 800;
-    text-align: center;
-    padding-top: 240px;
-    padding-bottom: 111px;
+    position: absolute;
+    color: rgb(255, 255, 255);
+    left: 570px;
+    top: 750px;
+    z-index: 30;
 }
 
-.service-box{
-    width: 366px;
-    height: 374px;
-    border: 3px solid #4f1616;
+.box-trafego {
+    border : 3px solid rgb(79, 22, 22) ;
     border-radius: 47px;
-    background-image: linear-gradient(to top, #4f1616, 4%,  #000);
-    margin-bottom: 16px;
-    margin-left: 18px;
+    background-image: linear-gradient( 360deg, rgb(58,17,17) 15%, rgb(0,0,0) 50%);
+    position: absolute;
+    left: 140px;
+    top: 870px;
+    width: 364px;
+    height: 373px;
+    z-index: 33;
+}
+
+.box-social {
+    border : 3px solid rgb(79, 22, 22) ;
+    border-radius: 47px;
+    background-image: linear-gradient( 360deg, rgb(58,17,17) 15%, rgb(0,0,0) 50%);
+    position: absolute;
+    left: 520px;
+    top: 870px;
+    width: 364px;
+    height: 373px;
+    z-index: 36;
+}
+
+.box-video {
+    border : 3px solid rgb(79, 22, 22) ;
+    border-radius: 47px;
+    background-image: linear-gradient( 360deg, rgb(58,17,17) 15%, rgb(0,0,0) 50%);
+    position: absolute;
+    left: 900px;
+    top: 870px;
+    width: 364px;
+    height: 373px;
+    z-index: 39;
+}
+
+
+.box-copy {
+    border : 3px solid rgb(79, 22, 22) ;
+    border-radius: 47px;
+    background-image: linear-gradient( 360deg, rgb(58,17,17) 15%, rgb(0,0,0) 50%);
+    position: absolute;
+    left: 140px;
+    top: 1260px;
+    width: 364px;
+    height: 373px;
+    z-index: 43;
+}
+
+
+.box-designer {
+    border : 3px solid rgb(79, 22, 22) ;
+    border-radius: 47px;
+    background-image: linear-gradient( 360deg, rgb(58,17,17) 15%, rgb(0,0,0) 50%);
+    position: absolute;
+    left: 520px;
+    top: 1260px;
+    width: 364px;
+    height: 373px;
+    z-index: 31;
+}
+
+.box-web {
+    border : 3px solid rgb(79, 22, 22) ;
+    border-radius: 47px;
+    background-image: linear-gradient( 360deg, rgb(58,17,17) 15%, rgb(0,0,0) 50%);
+    position: absolute;
+    left: 900px;
+    top: 1260px;
+    width: 364px;
+    height: 373px;
+    z-index: 31;
 }
 
 .img-services {
-    padding-top: 104px;
-    padding-bottom: 23px;
-    padding-left: 43px;
-    padding-right: 266px;
-    background:transparent;
+   position: absolute;
+   left: 48px;
+   top: 94px;
+   width: 65px;
+   height: 61px;
+   background: transparent;
 }
 
-.services-tittle {
-    color : #e74040;
-    font-family: "Montserrat";
-    font-weight: 600;
+.box-title {
     font-size: 20px;
+    font-weight: 600;
+    color: #e74040;
+    text-align: left;
+    position: absolute;
+    left: 44px;
+    top: 182px;
     background: transparent;
-    padding-left: 42px;
 }
 
 .services-description {
-    font-size: 18px;
-    font-weight: 400;
-    color: white;
-    opacity: 70%;
-    background: transparent ;
-    padding-left: 42px;
-}    
+    position: absolute;
+    left: 46px;
+    top: 226px;
+    z-index: 44;
+    background: transparent;
+    color: rgba(255, 255, 255, 0.702);
+}

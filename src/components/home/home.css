@@ -78,6 +78,7 @@
     color: rgb(255, 255, 255);
     font-weight: bold;
     font-size: 42px;
+    z-index: 40;
 }
 
 span {
@@ -91,6 +92,7 @@ span {
     left: 150px;
     top: 410px;
     color: rgba(255, 255, 255, 0.702);
+    z-index: 20;
 }
 
 .button-home {
@@ -103,9 +105,10 @@ span {
     height: 60px;
     font-size: 22px;
     font-weight: 600;
-    z-index: 17;
+    z-index: 20;
     top: 520px;
     left: 150px;
+
 }
 
 

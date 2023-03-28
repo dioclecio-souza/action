@@ -54,16 +54,3 @@ const home = () => {
 }
 
 export default home
-
-
-
-
-{/*
-
-<div>
-              
-              
-              
-            </div>
-*/}
-            

@@ -1,27 +1,252 @@
-#method-title {
-    color: white;
+
+.container {
+    display: flex;
+    align-items: center;
+}
+
+.method-title {
     font-size: 42px;
-    font-weight: 800;
-    padding-top: 138px;
-    padding-bottom: 137px;
+    color: rgb(255, 255, 255);
+    position: absolute;
+    left: 435px;
+    top: 1720px;
 }
 
-.title1 {
+.bolaTop {
+    position: absolute;
+    border-radius: 50%;
+    left: 168px;
+    top: 1960px;
+    z-index: 169;
+}
+
+.bolaLow {
+    position: absolute;
+    border-radius: 50%;
+    left: 182px;
+    top: 2446px;
+    z-index: 169;
+}
+
+.img-point-ab{
+    position: absolute;
+    left: 172px;
+    top: 1881px;
+    width: 559px;
+    height: 572px;
+    z-index: 158;
+}
+
+/* Metodo 01 */
+
+.number-1 {
     font-size: 129px;
-    font-weight: 700;
-    color: #e74040;
+    color: rgb(231, 64, 64);
+    font-weight: bold;
+    line-height: 0.971;
+    position: absolute;
+    left: 240px;
+    top: 1900px;
+    z-index: 151;
 }
 
-
-.sub-title1{
+.title-method1 {
+    left: 320px;
+    top: 1910px;
     font-size: 21px;
     font-weight: 800;
-    color: #e74040;
+    position: absolute;
+    color: rgb(231, 64, 64);
+}
+
+.desc-method1 {
+    font-size: 18px;
+    color: rgba(255, 255, 255, 0.702);
+    line-height: 1.55;
+    position: absolute;
+    text-align: left;
+    left: 320px;
+    top: 1940px;
+}
+
+/* Metodo 02 */
+
+.number-2 {
+    font-size: 129px;
+    position: absolute;
+    top: 2090px;
+    left: 240px;
+    color: rgb(231, 64, 64);
 }
 
 
-p {
+.title-method2 {
+    position: absolute;
+    left: 320px;
+    top: 2100px;
+    color: rgb(231, 64, 64);
+    font-size: 21px;
+    font-weight: 800;
+}
+
+
+.desc-method2 {
     font-size: 18px;
-    color: white;
-    opacity: 70%;
+    color: rgba(255, 255, 255, 0.702);
+    line-height: 1.55;
+    position: absolute;
+    text-align: left;
+    left: 320px;
+    top: 2135px;
+}
+
+
+/* Metodo 03 */
+
+.number-3 {
+    font-size: 129px;
+    position: absolute;
+    top: 2280px;
+    left: 240px;
+    color: rgb(231, 64, 64);
+}
+
+.title-method3 {
+    position: absolute;
+    left: 320px;
+    top: 2300px;
+    color: rgb(231, 64, 64);
+    font-size: 21px;
+    font-weight: 800;
+}
+
+.desc-method3 {
+    font-size: 18px;
+    color: rgba(255, 255, 255, 0.702);
+    line-height: 1.55;
+    position: absolute;
+    text-align: left;
+    left: 320px;
+    top: 2335px;
+}
+
+
+/* Continuaçao Right */
+
+.img-point-ab-right{
+    position: absolute;
+    left: 745px;
+    top: 1881px;
+    width: 559px;
+    height: 572px;
+    z-index: 168;
+}
+
+.bolaTop-right {
+    position: absolute;
+    border-radius: 50%;
+    left: 741px;
+    top: 1960px;
+    z-index: 169;
+}
+
+.bolaLow-right {
+    position: absolute;
+    border-radius: 50%;
+    left: 756px;
+    top: 2446px;
+    z-index: 169;
+}
+
+/* Metodo 04 */
+
+.number-4 {
+    font-size: 129px;
+    color: rgb(231, 64, 64);
+    font-weight: bold;
+    line-height: 0.971;
+    position: absolute;
+    left: 820px;
+    top: 1900px;
+    z-index: 151;
+}
+
+.title-method4 {
+    left: 916px;
+    top: 1910px;
+    font-size: 21px;
+    font-weight: 800;
+    position: absolute;
+    color: rgb(231, 64, 64);
+}
+
+.desc-method4 {
+    font-size: 18px;
+    color: rgba(255, 255, 255, 0.702);
+    line-height: 1.55;
+    position: absolute;
+    text-align: left;
+    left: 936px;
+    top: 1940px;
+}
+
+
+
+/* Metodo 05 */
+
+.number-5 {
+    font-size: 129px;
+    position: absolute;
+    top: 2090px;
+    left: 819px;
+    color: rgb(231, 64, 64);
+}
+
+.title-method5 {
+    position: absolute;
+    left: 916px;
+    top: 2100px;
+    color: rgb(231, 64, 64);
+    font-size: 21px;
+    font-weight: 800;
+}
+
+.desc-method5 {
+    font-size: 18px;
+    color: rgba(255, 255, 255, 0.702);
+    line-height: 1.55;
+    position: absolute;
+    text-align: left;
+    left: 936px;
+    top: 2135px;
+}
+
+
+/* Metodo 06 */
+
+.number-6 {
+    font-size: 129px;
+    position: absolute;
+    top: 2280px;
+    left: 818px;
+    color: rgb(231, 64, 64);
+}
+
+.title-method6 {
+    position: absolute;
+    left: 916px;
+    top: 2300px;
+    color: rgb(231, 64, 64);
+    font-size: 21px;
+    font-weight: 800;
+}
+
+.desc-method6 {
+    font-size: 18px;
+    color: rgba(255, 255, 255, 0.702);
+    line-height: 1.55;
+    position: absolute;
+    text-align: left;
+    left: 936px;
+    top: 2335px;
 }

@@ -16,7 +16,6 @@ import Footer from './components/Footer/Footer';
 
 
 
-import 'bootstrap/dist/css/bootstrap.css'
 import './styles/global.css'
 
 
@@ -34,6 +33,6 @@ root.render(
     <WhoIsEntony />
     <Time />
     <TrabalheConosco />
-    <Footer />
+    <Footer /> 
   </React.StrictMode>
 );
