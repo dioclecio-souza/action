@@ -1,0 +1,150 @@
+.title-time {
+    font-size: 42px;
+    color: rgb(255, 255, 255);
+    line-height: 1.202;
+    font-weight: 700;
+    position: absolute;
+    left: 530px;
+    top: 8870px;
+}
+
+.img-person1 {
+    opacity: 0.902;
+    position: absolute;
+    left: 125px;
+    top: 8990px;
+    z-index: 116;
+}
+
+.img-person2 {
+    opacity: 0.902;
+    position: absolute;
+    left: 500px;
+    top: 8990px;
+    z-index: 116;
+}
+
+.img-person3 {
+    opacity: 0.902;
+    position: absolute;
+    left: 875px;
+    top: 8990px;
+    z-index: 116;
+}
+
+.img-person4 {
+    opacity: 0.902;
+    position: absolute;
+    left: 125px;
+    top: 9500px;
+    z-index: 116;
+}
+
+.title-box {
+    font-size: 20px;
+    color: rgb(231, 64, 64);
+    font-weight: 700;
+    line-height: 1.5;
+    position: absolute;
+    left: 30px;
+    top: 230px;
+    z-index: 119;
+}
+
+.p-box {
+    font-size: 18px;
+    color: rgba(255, 255, 255, 0.702);
+    line-height: 1.667;
+    position: absolute;
+    left: 30px;
+    top: 260px;
+
+}
+
+.img-person5 {
+    opacity: 0.902;
+    position: absolute;
+    left: 500px;
+    top: 9500px;
+    z-index: 116;
+}
+
+.img-person6 {
+    opacity: 0.902;
+    position: absolute;
+    left: 875px;
+    top: 9500px;
+    z-index: 116;
+}
+
+.box1 {
+    border: 2px solid rgb(58, 17, 17);
+    background-image: linear-gradient( 360deg, rgb(58,17,17) 15%, rgb(0,0,0) 50%);
+    border-radius: 47px;
+    position: absolute;
+    left: 100px;
+    top: 9100px;
+    width: 364px;
+    height: 360px;
+    z-index: 115;
+}
+
+.box2 {
+    border: 2px solid rgb(58, 17, 17);
+    background-image: linear-gradient( 360deg, rgb(58,17,17) 15%, rgb(0,0,0) 50%);
+    border-radius: 47px;
+    position: absolute;
+    left: 475px;
+    top: 9100px;
+    width: 364px;
+    height: 360px;
+    z-index: 115;
+}
+
+.box3 {
+    border: 2px solid rgb(58, 17, 17);
+    background-image: linear-gradient( 360deg, rgb(58,17,17) 15%, rgb(0,0,0) 50%);
+    border-radius: 47px;
+    position: absolute;
+    left: 850px;
+    top: 9100px;
+    width: 364px;
+    height: 360px;
+    z-index: 115;
+}
+
+.box4 {
+    border: 2px solid rgb(58, 17, 17);
+    background-image: linear-gradient( 360deg, rgb(58,17,17) 15%, rgb(0,0,0) 50%);
+    border-radius: 47px;
+    position: absolute;
+    left: 100px;
+    top: 9624px;
+    width: 364px;
+    height: 360px;
+    z-index: 115;
+}
+
+.box5 {
+    border: 2px solid rgb(58, 17, 17);
+    background-image: linear-gradient( 360deg, rgb(58,17,17) 15%, rgb(0,0,0) 50%);
+    border-radius: 47px;
+    position: absolute;
+    left: 475px;
+    top: 9624px;
+    width: 364px;
+    height: 360px;
+    z-index: 115;
+}
+
+.box6 {
+    border: 2px solid rgb(58, 17, 17);
+    background-image: linear-gradient( 360deg, rgb(58,17,17) 15%, rgb(0,0,0) 50%);
+    border-radius: 47px;
+    position: absolute;
+    left: 850px;
+    top: 9624px;
+    width: 364px;
+    height: 360px;
+    z-index: 115;
+}

@@ -1,0 +1,61 @@
+.container-whoIs {
+    background-image: linear-gradient( 16deg, rgb(38,9,9) 0%, rgb(79,22,22) 99%);
+    position: absolute;
+    left: -7px;
+    top: 8211px;
+    width: 1450px;
+    height: 600px;
+    z-index: 259;
+}
+
+
+.title-whoIs {
+    font-size: 41px;
+    color: rgb(255, 255, 255);
+    font-weight: 700;
+    line-height: 1.202;
+    position: absolute;
+    left: 811px;
+    top: 164px;
+    z-index: 265;
+}
+
+.desc-whoIs {
+    font-size: 18px;
+    line-height: 1.833;
+    position: absolute;
+    left: 811px;
+    top: 276px;
+    color: rgba(255, 255, 255, 0.8);
+}
+
+
+#jovem-afro {
+    position: absolute;
+    left: 201px;
+    top: 52px;
+    width: 455px;
+    z-index: 263;
+}
+
+
+#sign {
+    position: absolute;
+    left: 580px;
+    top: 470px;
+    z-index: 266;
+}
+
+#logo-border {
+    position: absolute;
+    z-index: 261;
+}
+
+
+#light1 {
+    position: absolute;
+    left: 105px;
+    width: 634px;
+    height: 564px;
+    z-index: 264;
+}
