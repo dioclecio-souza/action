@@ -1,0 +1,47 @@
+.content-work {
+    border-radius: 43px;
+    background-color: rgb(173, 43, 43);
+    position: absolute;
+    left: 105px;
+    top: 10119px;
+    width: 1129px;
+    height: 368px;
+    z-index: 286;
+}
+
+.content-title {
+    font-size: 42px;
+    color: rgb(255, 255, 255);
+    font-weight: 700;
+    line-height: 1.31;
+    position: absolute;
+    left: 106px;
+    top: 76px;
+}
+
+.content-desc {
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    position: absolute;
+    left: 106px;
+    top: 192px;
+}
+
+#logowork {
+    position: absolute;
+}
+
+.content-button {
+    font-size: 22px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(78, 20, 20);
+    border: none;
+    border-radius: 30px;
+    width: 309px;
+    height: 61px;
+    font-weight: 700;
+    line-height: 1.5;
+    position: absolute;
+    left: 106px;
+    top: 240px;
+}

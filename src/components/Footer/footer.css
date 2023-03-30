@@ -1,0 +1,70 @@
+#logo-footer {
+    position: absolute;
+    left: 174px;
+    top: 10584px;
+}
+
+.p-logo {
+    font-size: 16px;
+    position: absolute;
+    color: rgba(255, 255, 255, 0.259);
+    line-height: 2.125;
+    left: 180px;
+    top: 10710px;
+}
+
+
+.location-title {
+    font-size: 16px;
+    color: rgb(255, 255, 255);
+    position: absolute;
+    top: 10600px;
+    left: 580px;
+}
+
+#location {
+    position: absolute;
+    left: 585px;
+    top: 10636px;
+}
+
+
+.p-location {
+    font-size: 16px;
+    position: absolute;
+    color: rgba(255, 255, 255, 0.502);
+    line-height: 1.75;
+    left: 610px;
+    top: 10635px;
+}
+
+.contact-title {
+    font-size: 16px;
+    color: rgb(255, 255, 255);
+    line-height: 1.387;
+    position: absolute;
+    left: 1000px;
+    top: 10597px;
+}
+
+#tel {
+    position: absolute;
+    left: 1003px;
+    top: 10665px;
+}   
+
+
+#email {
+    position: absolute;
+    left: 1000px;
+    top: 10635px;
+}
+
+.p-desc {
+    font-size: 16px;
+    color: rgba(255, 255, 255, 0.502);
+    line-height: 1.875;
+    position: absolute;
+    left: 1030px;
+    top: 10625px;
+}

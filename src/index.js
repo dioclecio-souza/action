@@ -11,7 +11,7 @@ import Oque from './components/empresaPrecisa/oQue';
 import CommonQuestions from './components/CommonQuestions/commonQuestions';
 import WhoIsEntony from './components/WhoIsEntony/whoIsEntony';
 import Time from './components/Time/time';
-import TrabalheConosco from './components/TrabalheConosco/trabalheConosco';
+import TrabalheConosco from './components/TrabalheConosco/workWithUs';
 import Footer from './components/Footer/Footer';
 
 
