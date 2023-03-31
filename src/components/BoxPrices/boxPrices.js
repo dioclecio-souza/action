@@ -1,6 +1,6 @@
 import React from 'react'
 import CorrectImg from '../../assets/correto.png'
-import './style.css'
+import './boxprices.css'
 
 const boxPrices = () => {
   return (
@@ -16,7 +16,7 @@ const boxPrices = () => {
                 <hr/>
                 <div className="description-prices">
                   <p><img src={CorrectImg} alt="correct" className="correct"></img>Aula semanal Ao Vivo</p>
-                  <p><img src={CorrectImg} alt="correct" className="correct"></img>ais de 300 aulas gravadas</p>
+                  <p><img src={CorrectImg} alt="correct" className="correct"></img>Mais de 300 aulas gravadas</p>
                   <p><img src={CorrectImg} alt="correct" className="correct"></img>ONM Shorts</p>
                   <p><img src={CorrectImg} alt="correct" className="correct"></img>Masterclasses Exclusivas</p>
                   <p><img src={CorrectImg} alt="correct" className="correct"></img>Caixa de Ferramentas</p>

@@ -7,7 +7,7 @@ import AgencyMethodology from './components/agencyMethod/methodology';
 import Results from './components/results/results';
 import BoxPrices from './components/BoxPrices/boxPrices';
 import ParaQuem from './components/paraquemE/paraQuem';
-import Oque from './components/empresaPrecisa/oQue';
+import WhatIs from './components/empresaPrecisa/whatIs';
 import CommonQuestions from './components/CommonQuestions/commonQuestions';
 import WhoIsEntony from './components/WhoIsEntony/whoIsEntony';
 import Time from './components/Time/time';
@@ -28,7 +28,7 @@ root.render(
     <Results />
     <BoxPrices/>
     <ParaQuem />
-    <Oque />
+    <WhatIs />
     <CommonQuestions />
     <WhoIsEntony />
     <Time />

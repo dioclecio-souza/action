@@ -1,0 +1,275 @@
+.content-titleWhoIs {
+    font-size: 42px;
+    color: rgb(255, 255, 255);
+    line-height: 1.202;
+    font-weight: bold;
+    position: absolute;
+    left: 520px;
+    top: 5730px;
+    z-index: 58;
+}
+
+
+/* Style Imobiliaria */
+
+.title-imob {
+    font-size: 22px;
+    color: rgb(255, 255, 255);
+    font-weight: 800;
+    line-height: 2.296;
+    position: absolute;
+    top: 100px;
+    left: 50px;
+    z-index: 63;
+}
+
+.desc-imob {
+    font-size: 18px;
+    color: rgba(255, 255, 255, 0.702);
+    line-height: 1.5;
+    position: absolute;
+    top: 150px;
+    left: 50px;
+    z-index: 64;
+}
+
+.box-imob {
+    background-color: transparent;
+    border-radius: 25px;
+    left: 100px;
+    top: 5886px;
+    width: 366px;
+    height: 272px;
+    position: absolute;
+    z-index: 61;
+}
+
+.imobiliaria-img {
+    position: absolute;
+    top: 0;
+    left: -75px;
+    z-index: 60;
+}
+
+
+/* Style Corretor de Imóveis */
+
+.title-corr {
+    font-size: 22px;
+    color: rgb(255, 255, 255);
+    font-weight: 800;
+    line-height: 2.296;
+    position: absolute;
+    top: 100px;
+    left: 50px;
+    z-index: 67;
+}
+
+.desc-corr {
+    font-size: 18px;
+    color: rgba(255, 255, 255, 0.702);
+    line-height: 1.5;
+    position: absolute;
+    top: 150px;
+    left: 50px;
+    z-index: 68;
+}
+
+.box-corr {
+    background-color: transparent;
+    border-radius: 25px;
+    left: 480px;
+    top: 5886px;
+    width: 366px;
+    height: 272px;
+    position: absolute;
+    z-index: 65;
+}
+
+.corretor-img {
+    position: absolute;
+    top: 0;
+    left: -75px;
+    z-index: 62;
+}
+
+/* Style Médico */
+
+.box-med{
+    background-color: transparent;
+    border-radius: 25px;
+    position: absolute;
+    left: 860px;
+    top: 5886px;
+    width: 366px;
+    height: 272px;
+    z-index: 69;
+}
+
+.title-med {
+    font-size: 22px;
+    color: rgb(255, 255, 255);
+    font-weight: 800;
+    line-height: 2.296;
+    position: absolute;
+    top: 100px;
+    left: 50px;
+    z-index: 71;
+}
+
+.desc-med {
+    font-size: 18px;
+    color: rgba(255, 255, 255, 0.702);
+    line-height: 1.5;
+    position: absolute;
+    top: 150px;
+    left: 50px;
+    z-index: 72;
+}
+
+.medico-img {
+    position: absolute;
+    top: 0;
+    left: -75px;
+    z-index: 62;
+}
+
+/* Style Dentista */
+
+.box-dent {
+    background-color: transparent;
+    border-radius: 25px;
+    position: absolute;
+    left: 100px;
+    top: 6172px;
+    width: 366px;
+    height: 272px;
+    z-index: 73;
+}
+
+.title-dent {
+    font-size: 22px;
+    color: rgb(255, 255, 255);
+    font-weight: 800;
+    line-height: 2.296;
+    position: absolute;
+    top: 100px;
+    left: 50px;
+    z-index: 75;
+}
+
+.desc-dent {
+    font-size: 18px;
+    color: rgba(255, 255, 255, 0.702);
+    line-height: 1.5;
+    position: absolute;
+    top: 150px;
+    left: 50px;
+    z-index: 76;
+}
+
+.dentista-img {
+    position: absolute;
+    top: 0;
+    left: -75px;
+    z-index: 73;
+}
+
+/* Style Nutricionista */
+
+.box-nutri {
+    background-color: transparent;
+    border-radius: 25px;
+    position: absolute;
+    left: 480px;
+    top: 6172px;
+    width: 366px;
+    height: 272px;
+    z-index: 77;
+}
+
+.title-nutri {
+    font-size: 22px;
+    color: rgb(255, 255, 255);
+    font-weight: 800;
+    line-height: 2.296;
+    position: absolute;
+    top: 100px;
+    left: 50px;
+    z-index: 79;
+}
+
+.desc-nutri {
+    font-size: 18px;
+    color: rgba(255, 255, 255, 0.702);
+    line-height: 1.5;
+    position: absolute;
+    top: 150px;
+    left: 50px;
+    z-index: 80;
+}
+
+.nutricionista-img {
+    position: absolute;
+    top: 0;
+    left: -75px;
+    z-index: 62;
+}
+
+/* Style Emprestimo */
+
+.box-empres {
+    background-color: transparent;
+    border-radius: 25px;
+    position: absolute;
+    left: 860px;
+    top: 6172px;
+    width: 366px;
+    height: 272px;
+    z-index: 81;
+}
+
+.title-empres {
+    font-size: 22px;
+    color: rgb(255, 255, 255);
+    font-weight: 800;
+    line-height: 2.296;
+    position: absolute;
+    top: 100px;
+    left: 50px;
+    z-index: 83;
+}
+
+.desc-empres {
+    font-size: 18px;
+    color: rgba(255, 255, 255, 0.702);
+    line-height: 1.5;
+    position: absolute;
+    top: 150px;
+    left: 50px;
+    z-index: 84;
+}
+
+.emprestimo-img {
+    position: absolute;
+    top: 0;
+    left: -75px;
+    z-index: 62;
+}
+
+/* Fim Styles */
+
+#content-buttonWhoIS {
+    background-color: rgb(231, 64, 64);
+    position: absolute;
+    border: none;
+    color: rgb(255, 255, 255);
+    border-radius: 30px;
+    font-size: 22px;
+    font-weight: 600;
+    left: 520px;
+    top: 6520px;
+    width: 300px;
+    height: 59px;
+    z-index: 59;
+}

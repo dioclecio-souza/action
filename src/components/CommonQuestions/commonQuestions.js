@@ -2,14 +2,14 @@ import React from 'react'
 
 
 
-import './styles.css'
+import './questions.css'
 
 const commonQuestions = () => {
   return (
 
     
 
-    <div className="container">
+    <div className="container justify-content-center">
 
         {/* Title */}
 
