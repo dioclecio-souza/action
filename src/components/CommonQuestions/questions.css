@@ -1,20 +1,103 @@
 .title-Questions {
-    color: white;
+    color: rgb(255, 255, 255);
     font-size: 42px;
     font-weight: 800;
-    text-align: center;
-    margin-bottom: 90px;
+    line-height: 1.202;
+    position: absolute;
+    left: 430px;
+    top: 7370px;
+    z-index: 96;
 }
 
-.accordion-header {
-    margin-left: 52px;
+
+.boxQuestionsOne {
+    border: 2px solid rgb(231, 64, 64);
     background: transparent;
+    border-radius: 21px;
+    position: absolute;
+    left: 100px;
+    top: 7498px;
+    width: 1127px;
+    height: 73px;
+    z-index: 97;
 }
 
-.accordion-body {
-    color: white;
-    font-size: 18px;
-    font-weight: 400;
-    opacity: 80%;
-    margin-left: 52px;
+.boxQuestionsTwo {
+    border: 2px solid rgb(231, 64, 64);
+    background: transparent;
+    border-radius: 21px;
+    position: absolute;
+    left: 100px;
+    top: 7758px;
+    width: 1127px;
+    height: 73px;
+    z-index: 97;
 }
+
+.boxQuestionsThree {
+    border: 2px solid rgb(231, 64, 64);
+    background: transparent;
+    border-radius: 21px;
+    position: absolute;
+    left: 100px;
+    top: 7848px;
+    width: 1127px;
+    height: 73px;
+    z-index: 97;
+}
+
+.boxQuestionsFor {
+    border: 2px solid rgb(231, 64, 64);
+    background: transparent;
+    border-radius: 21px;
+    position: absolute;
+    left: 100px;
+    top: 7938px;
+    width: 1127px;
+    height: 73px;
+    z-index: 97;
+}
+
+.boxQuestionsFive {
+    border: 2px solid rgb(231, 64, 64);
+    background: transparent;
+    border-radius: 21px;
+    position: absolute;
+    left: 100px;
+    top: 8028px;
+    width: 1127px;
+    height: 73px;
+    z-index: 97;
+}
+
+.box-headerOne {
+    color: rgb(255, 255, 255);
+    font-size: 22px;
+    line-height: 1.5;
+    font-weight: 400;
+    position: absolute;
+    top: 20px;
+    left: 100px;
+    z-index: 98;
+}
+
+
+.questions-p {
+    font-size: 18px;
+    color: rgba(255, 255, 255, 0.8);
+    font-weight: 400;
+    position: absolute;
+    left: 100px;
+    top: 100px;
+    z-index: 99;
+}
+
+
+.fundo-questions {
+    position: absolute;
+    top: 6517px;
+    width: 1440px;
+    height: 2536px;
+    z-index: 4;
+}
+

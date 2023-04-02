@@ -8,30 +8,33 @@
     font-size: 42px;
     color: rgb(255, 255, 255);
     position: absolute;
-    left: 435px;
+    left: 380px;
     top: 1720px;
 }
+
+
+/* Inicio Linha Esquerda  */
 
 .bolaTop {
     position: absolute;
     border-radius: 50%;
-    left: 168px;
-    top: 1960px;
+    left: 95px;
+    top: 1950px;
     z-index: 169;
 }
 
 .bolaLow {
     position: absolute;
     border-radius: 50%;
-    left: 182px;
-    top: 2446px;
+    left: 110px;
+    top: 2435px;
     z-index: 169;
 }
 
 .img-point-ab{
     position: absolute;
-    left: 172px;
-    top: 1881px;
+    left: 100px;
+    top: 1870px;
     width: 559px;
     height: 572px;
     z-index: 158;
@@ -45,13 +48,13 @@
     font-weight: bold;
     line-height: 0.971;
     position: absolute;
-    left: 240px;
+    left:140px;
     top: 1900px;
     z-index: 151;
 }
 
 .title-method1 {
-    left: 320px;
+    left: 220px;
     top: 1910px;
     font-size: 21px;
     font-weight: 800;
@@ -65,7 +68,7 @@
     line-height: 1.55;
     position: absolute;
     text-align: left;
-    left: 320px;
+    left: 220px;
     top: 1940px;
 }
 
@@ -74,15 +77,15 @@
 .number-2 {
     font-size: 129px;
     position: absolute;
-    top: 2090px;
-    left: 240px;
+    top: 2070px;
+    left: 130px;
     color: rgb(231, 64, 64);
 }
 
 
 .title-method2 {
     position: absolute;
-    left: 320px;
+    left: 220px;
     top: 2100px;
     color: rgb(231, 64, 64);
     font-size: 21px;
@@ -96,8 +99,8 @@
     line-height: 1.55;
     position: absolute;
     text-align: left;
-    left: 320px;
-    top: 2135px;
+    left: 220px;
+    top: 2130px;
 }
 
 
@@ -106,15 +109,15 @@
 .number-3 {
     font-size: 129px;
     position: absolute;
-    top: 2280px;
-    left: 240px;
+    top: 2265px;
+    left: 140px;
     color: rgb(231, 64, 64);
 }
 
 .title-method3 {
     position: absolute;
-    left: 320px;
-    top: 2300px;
+    left: 225px;
+    top: 2290px;
     color: rgb(231, 64, 64);
     font-size: 21px;
     font-weight: 800;
@@ -126,8 +129,8 @@
     line-height: 1.55;
     position: absolute;
     text-align: left;
-    left: 320px;
-    top: 2335px;
+    left: 225px;
+    top: 2325px;
 }
 
 
@@ -135,8 +138,8 @@
 
 .img-point-ab-right{
     position: absolute;
-    left: 745px;
-    top: 1881px;
+    left: 670px;
+    top: 1865px;
     width: 559px;
     height: 572px;
     z-index: 168;
@@ -145,16 +148,16 @@
 .bolaTop-right {
     position: absolute;
     border-radius: 50%;
-    left: 741px;
-    top: 1960px;
+    left: 666px;
+    top: 1950px;
     z-index: 169;
 }
 
 .bolaLow-right {
     position: absolute;
     border-radius: 50%;
-    left: 756px;
-    top: 2446px;
+    left: 680px;
+    top: 2430px;
     z-index: 169;
 }
 
@@ -166,13 +169,13 @@
     font-weight: bold;
     line-height: 0.971;
     position: absolute;
-    left: 820px;
+    left: 700px;
     top: 1900px;
     z-index: 151;
 }
 
 .title-method4 {
-    left: 916px;
+    left: 805px;
     top: 1910px;
     font-size: 21px;
     font-weight: 800;
@@ -186,7 +189,7 @@
     line-height: 1.55;
     position: absolute;
     text-align: left;
-    left: 936px;
+    left: 805px;
     top: 1940px;
 }
 
@@ -197,14 +200,14 @@
 .number-5 {
     font-size: 129px;
     position: absolute;
-    top: 2090px;
-    left: 819px;
+    top: 2070px;
+    left: 720px;
     color: rgb(231, 64, 64);
 }
 
 .title-method5 {
     position: absolute;
-    left: 916px;
+    left: 810px;
     top: 2100px;
     color: rgb(231, 64, 64);
     font-size: 21px;
@@ -217,7 +220,7 @@
     line-height: 1.55;
     position: absolute;
     text-align: left;
-    left: 936px;
+    left: 810px;
     top: 2135px;
 }
 
@@ -227,15 +230,15 @@
 .number-6 {
     font-size: 129px;
     position: absolute;
-    top: 2280px;
-    left: 818px;
+    top: 2260px;
+    left: 720px;
     color: rgb(231, 64, 64);
 }
 
 .title-method6 {
     position: absolute;
-    left: 916px;
-    top: 2300px;
+    left: 820px;
+    top: 2290px;
     color: rgb(231, 64, 64);
     font-size: 21px;
     font-weight: 800;
@@ -247,6 +250,6 @@
     line-height: 1.55;
     position: absolute;
     text-align: left;
-    left: 936px;
-    top: 2335px;
+    left: 820px;
+    top: 2320px;
 }

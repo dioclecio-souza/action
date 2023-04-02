@@ -72,12 +72,11 @@
 
 
 hr {
-    left: 60px;
+    left: 100px;
     top: 340px;
     position: absolute;
     opacity: 0.271;
     width: 375px;
-    height: 4px;
     z-index: 225;
 }
 
