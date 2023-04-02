@@ -1,35 +1,43 @@
-.title-board {
-    color: white;
-    text-align: center;
-    font-weight: 500;
+.content-popping img {
     position: absolute;
-    left: 403px;
-    top: 2683px;
+    left: 181px;
+    top: 3536px;
+    width: 667px;
+    height: 401px;
+    z-index: 199;
 }
 
 
-.title-board span {
-    font-weight: 800;
+#img-computador {
+    position: absolute;
+    left: 231px;
+    z-index: 200;
 }
 
 
 
-.title-10x {
-    color: white;
-    font-size: 28px;
-    font-weight: 800;
+
+
+
+
+
+
+
+/* Style Imagens Fundo */
+
+#luz-fundo {
+    position: absolute;
+    top: 3657px;
+    width: 1920px;
+    height: 1383px;
+    z-index: 208;
 }
 
-.value-invest {
-    padding-top: 633px;
-}
 
-.value-invest h1 {
-    font-weight: 800;
-    color: white;
-    font-size: 28px;
-}
-
-.value-invest span {
-    font-weight: 800;
+#graficos {
+    mix-blend-mode: hard-light;
+    position: absolute;
+    top: -50px;
+    max-width: 1920px;
+    z-index: 209;
 }
